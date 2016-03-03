@@ -40,7 +40,7 @@ Only 2 bags are there, so we will take those bags.
 ```
 4 5
 ```
-### Explanation #2:
+### Explanation
 Bag 4 and bag 3
 
 ### Tags
