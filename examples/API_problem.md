@@ -16,13 +16,13 @@ Note:
 The script will run in linux environment with root access and internet connectivity.
 
 ### Input format
-A single line containing a paragraph in dutch language.
+A single line containing a paragraph **S** in dutch language.
 
 ### Output format
 n lines, each containing the english translation of each highlighted word in the order in which they appear in the paragraph. In case if there are multiple translations for a word, output the first translation.
 
 ### Limits
-
+1 <= |S| <= 10000
 
 ### Sample test cases
 
@@ -40,7 +40,7 @@ known
 API, Easy, regex, Yandex, Dictionary
 
 ### Editorial
-
+https://tech.yandex.com/dictionary/doc/dg/reference/lookup-docpage/
 
 ### Solution
 
