@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* [Example script problem](example_script_problem.md)
-
+* [Examples](example/Readme.md)
+  * [Example script problem](examples/script_problem.md)
