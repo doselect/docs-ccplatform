@@ -1,5 +1,5 @@
 
 # Examples
 
-* [Script problem](examples/script_problem.md)
+* [Script problem](script_problem.md)
 
