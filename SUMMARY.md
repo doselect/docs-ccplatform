@@ -7,5 +7,5 @@
    * [Example script problem](examples/script_problem.md)
    * [Example API problem](examples/API_problem.md)
    * [Example MCQ problem](examples/MCQ_problem.md)
-   * Sample UIX Problem
+   * [Sample UIX Problem](examples/sample_uix_problem.md)
 
