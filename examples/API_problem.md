@@ -9,7 +9,7 @@ Luke is learning many languages so that he can communicate easily during his jou
 >>difficult_word<<
 ```
 
-Use the below API
+Use the below API  
 https://tech.yandex.com/dictionary/
 
 Note:
