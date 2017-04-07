@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Script problems](SCR/README.md)
     * [Sample algorithm/data-structure problem](SCR/sample_alg.md)
+    * [Sample language specific problem](SCR/sample_lang.md)
     * [Sample API problem](SCR/sample_api.md)
 * [Front-end application problems](UIX/README.md)
     * [Sample problem](UIX/sample.md)
