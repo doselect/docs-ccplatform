@@ -7,6 +7,8 @@
     * [Sample API problem](SCR/sample_api.md)
 * [Front-end application problems](UIX/README.md)
     * [Sample problem](UIX/sample.md)
+* [Selenium testing problems](SEL/README.md)
+    * [Sample problem](SEL/sample.md)
 * [Mobile application problems](MOB/README.md)
     * [Sample Android problem](MOB/sample.md)
 * [Machine Learning and Data Science problems](MLI/README.md)
