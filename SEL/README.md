@@ -16,7 +16,9 @@ See [sample](sample.md)
 Maximum time (in seconds) required for solution program to run successfully.
 
 ### Environment
-- [PhantomJS](http://phantomjs.org/)
-- [Selenium Standalone Server](http://www.seleniumhq.org/download/)
+- Download the [Selenium Standalone Server](http://www.seleniumhq.org/download/)
+- Start the Selenium Standalone Server in `node` role. You can find the relevent docs [here](https://github.com/SeleniumHQ/selenium/wiki/Grid2)
+- Download [PhantomJS](http://phantomjs.org/)
+- Make sure the directory containing the phantomjs executable is in the PATH.
 
 Have a look at the [sample solution](sample.md) to get better idea
