@@ -7,6 +7,8 @@
     * [Sample API problem](SCR/sample_api.md)
 * [SQL problems](DBA/README.md)
     * [Sample MySQL problem](DBA/sample.md)
+    * [Sample MongoDB problem #1](DBA/sample2.md)
+    * [Sample MongoDB problem #2](DBA/sample3.md)
 * [Front-end application problems](UIX/README.md)
     * [Sample problem](UIX/sample.md)
 * [Selenium testing problems](SEL/README.md)
