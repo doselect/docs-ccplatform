@@ -43,7 +43,7 @@ describe('<Hello />', () => {
 ```
 
 Note that `scripts/hello.jsx` contains the following code.
-```
+```javascript
 import React from 'react';
 
 class Hello extends React.Component {
