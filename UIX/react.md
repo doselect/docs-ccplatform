@@ -1,7 +1,7 @@
 ## Creating React problems
 
 ### Solution stub
-By default, all React problems are initialized with [this](https://github.com/doselect/dexter-stubs/tree/master/reactjs) code. If you need to change this behaviour, you can upload a different stub in the problem settings.
+By default, all React problems are initialized with [this](https://github.com/doselect/dexter-stubs/tree/master/reactjs) code. If you need to change this behaviour, you can upload a different stub in the problem settings. Make sure you use `index.html`, `config.js` and `app.jsx` from the default stub which setups SystemJS, which is a  module loader enabling dynamic ES module workflows in browsers. You can also edit them as per your requirement.
 
 ```
 workspace/
