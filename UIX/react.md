@@ -51,7 +51,7 @@ class Hello extends React.Component {
     return (
       <div className="hello">
       	<p>Your <strong>ReactJS</strong> project is ready!</p>
-    	<p>ReactJS Version 15.6.2</p>
+    	<p>ReactJS Version 16.2.0</p>
       </div>
     );
   }
