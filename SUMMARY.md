@@ -11,6 +11,7 @@
     * [Sample MongoDB problem #2](DBA/sample3.md)
 * [Front-end application problems](UIX/README.md)
     * [Sample problem](UIX/sample.md)
+    * [Testing React apps](UIX/react.md)
 * [Selenium testing problems](SEL/README.md)
     * [Sample problem](SEL/sample.md)
 * [Mobile application problems](MOB/README.md)
