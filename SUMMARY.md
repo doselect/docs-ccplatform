@@ -18,3 +18,4 @@
     * [Sample Android problem](MOB/sample.md)
 * [Machine Learning and Data Science problems](MLI/README.md)
     * [Sample problem](MLI/sample.md)
+* [Project based problems](PRJ/README.md)

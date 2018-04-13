@@ -8,3 +8,4 @@ Welcome Content creators! This guide will provide you with all the information y
 * [Selenium testing problems](SEL/README.md)
 * [Mobile application problems](MOB/README.md)
 * [Machine Learning and Data Science problems](MLI/README.md)
+* [Project based problems](PRJ/README.md)
