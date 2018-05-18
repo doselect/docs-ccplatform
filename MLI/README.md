@@ -14,46 +14,10 @@ This dataset will be available to the developers for validating their model befo
 
 ### Available libraries in the environment
 #### R
-```
-RCurl
-dplyr
-tidyr
-readr
-stringr
-plyr
-reshape2
-lubridate
-data.table
-dtplyr
-foreach
-ggplot2
-RColorBrewer
-randomForest
-rpart
-ROCR
-car
-party
-caret
-mlr
-tree
-klaR
-ipred
-lars
-penalized
-```
+RCurl, dplyr, tidyr, readr, stringr, plyr, reshape2, lubridate, data.table, dtplyr, foreach, ggplot2, RColorBrewer, randomForest, rpart, ROCR, car, party, caret, mlr, tree, klaR, ipred, lars, penalized, mlbench, e1071, sqldf, glmnet, gbm, knitr, ggthemes, ggmap, gridExtra, xgboost, tm, wordcloud2, dummies, mice, forecast, naivebayes, caTools, h2o, ggpubr, arules, animation, png, arulesViz
 
 #### Python
-```
-requests 2.12.0
-simplejson 3.10.0
-numpy 1.11.2
-scipy 0.18.0
-scikit-learn 0.18
-matplotlib 1.5.3
-cython 0.25.2
-pandas 0.19.0
-nltk 3.2
-```
+requests 2.12.0, simplejson 3.10.0, numpy 1.11.2, scipy 0.18.0, scikit-learn 0.18, matplotlib 1.5.3, cython 0.25.2, pandas 0.19.0, nltk 3.2, pydataset 0.2, imbalanced-learn, seaborn 0.8, statsmodels 0.8
 
 ### Testcases
 Testcases are programs which will be used to evaluate developer's submissions. You have freedom to write the testcases in `python 2`, `python 3` or `R`. The correctness of solution is determined by the exit status of the evaluation code. Evaluation code should exit with `zero` only if the submission is correct.
