@@ -9,3 +9,5 @@ Welcome Content creators! This guide will provide you with all the information y
 * [Mobile application problems](MOB/README.md)
 * [Machine Learning and Data Science problems](MLI/README.md)
 * [Project based problems](PRJ/README.md)
+* [Application based problems](APP/README.md)
+
