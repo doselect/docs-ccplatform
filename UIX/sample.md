@@ -23,12 +23,22 @@ Please stick to the following specifications (otherwise your evaluation will fai
 ```javascript
 
 var webdriver = require('selenium-webdriver'),
-  phantomjs = require('phantomjs-prebuilt'),
-  driver = new webdriver.Builder()
-              .withCapabilities({"phantomjs.binary.path":phantomjs.path})
-              .forBrowser('phantomjs')
-              .build(),
-  expect = require('chai').expect
+    chrome    = require('selenium-webdriver/chrome')
+    By        = webdriver.By,
+    until     = webdriver.until,
+    options   = new chrome.Options();
+    options.addArguments('headless'); // note: without dashes
+    options.addArguments('disable-gpu')
+    options.addArguments('no-sandbox')
+var path = '/opt/chromedriver';
+var service = new chrome.ServiceBuilder(path).build();
+    chrome.setDefaultService(service);
+var driver = new webdriver.Builder()
+    .forBrowser('chrome')
+    .withCapabilities(webdriver.Capabilities.chrome()) 
+    .setChromeOptions(options)                         // note this
+    .build();
+var expect = require('chai').expect
 
 describe('App', function() {
   describe('default page', function() {
