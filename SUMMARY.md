@@ -6,6 +6,7 @@
     * [Sample language specific problem](SCR/sample_lang.md)
     * [Sample API problem](SCR/sample_api.md)
 * [SQL problems](DBA/README.md)
+    * [Adding a custom database](DBA/custom_db.md)
     * [Sample MySQL problem](DBA/sample.md)
     * [Sample MongoDB problem #1](DBA/sample2.md)
     * [Sample MongoDB problem #2](DBA/sample3.md)
